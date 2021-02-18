@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">X#ID</string>
+    <string name="id_number">ID NUMBER</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="san">SA citizen</string>
+    <string name="prn">Permanent</string>
+    <string name="gender">Gender :</string>
+    <string name="dob">Date of Birth :</string>
+    <string name="nationality">Nationality :</string>
+    <string name="newline">\n</string>
+</resources>
